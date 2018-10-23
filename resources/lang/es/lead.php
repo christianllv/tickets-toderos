@@ -26,4 +26,7 @@ return [
     'complete'       => 'Completar',
     'todayTasks'     => 'Tareas de hoy',
     'todayTasksDesc' => 'Aqui tienes les tareas para hoy:',
+
+    'search' => 'Buscar',
+
 ];
