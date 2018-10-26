@@ -13,10 +13,5 @@
 </head>
 <body>
     @yield('body')
-
-    <div style="margin-top:40px">
-        Powered by <a href="https://github.com/BadChoice/handesk"><img src="http://handesk.dev/images/handesk_full.png" height="30" align="center"></a>
-    </div>
-
 </body>
 </html>

@@ -22,9 +22,6 @@
             @endif
         </div>
 
-        <div style="margin-top:40px">
-            Add a comment by replying to this email or <a href="{{$url}}">view the ticket in Handesk</a>
-        </div>
 
         <span style="color:white">ticket-id:{{$ticket->id}}.</span>
 
