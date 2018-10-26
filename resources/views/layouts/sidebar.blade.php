@@ -4,13 +4,14 @@
     </div>
     <img src="{{ url("/images/handesk_small.png") }}">
     @include('layouts.sidebar.tickets')
+    <!--
     @if( config('handesk.leads') )
         @include('layouts.sidebar.leads')
     @endif
     @if( config('handesk.roadmap') )
         @include('layouts.sidebar.roadmap')
     @endif
-
+    -->
     <br>
     <h4> @icon(bar-chart) {{ trans_choice('report.report', 2) }}</h4>
     <ul>
